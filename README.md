@@ -4,7 +4,7 @@
 </picture>
 <br>
 
-Hi, I'm Kenneth. I run **BrewedOps** out of the Philippines: GoHighLevel automations for clients, plus the apps and AI tools I build on the side. No formal coding background - I build everything with AI, mostly Claude Code, and ship it in small pieces.
+Hi, I'm Kenneth. I run **BrewedOps** out of the Philippines: GoHighLevel automations for clients, plus the apps and AI tools I build on the side. I build everything with AI, mostly Claude Code, and ship it in small pieces.
 
 ### Now brewing
 
