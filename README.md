@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="BrewedOps - Automations and apps, brewed to perfection. Kenneth Villar, Certified GHL Admin." src="assets/banner-light.svg" width="100%">
+  <img alt="BrewedOps - Automations and apps, brewed to perfection. Kenneth Villar, Aspiring AI Engineer and AI Native Builder." src="assets/banner-light.svg" width="100%">
 </picture>
 <br>
 
@@ -15,7 +15,7 @@ Hi, I'm Kenneth. I run **BrewedOps** out of the Philippines: GoHighLevel automat
 <br>
 
 - **[talking-explainer](https://github.com/brewed-ops/talking-explainer)** - a Claude Code skill that turns any topic into a narrated motion-design video, presented by a cartoon that lip-syncs to your voice. That's him up there.
-- **[kapevault](https://github.com/brewed-ops/kapevault)** - an encrypted password vault for Windows and Android. Nothing leaves your own devices.
+- **[kapevault](https://github.com/brewed-ops/kapevault)** - open any link, Drive file or folder in two keys. One search box for everything you open at work, encrypted on your own devices. Windows, with Android in testing.
 - **[agentic-framework-kit](https://github.com/brewed-ops/agentic-framework-kit)** - the build system I use on every project, packaged as installable skills for Claude Code, Codex, Cursor and friends.
 - **[canvas-skills](https://github.com/brewed-ops/canvas-skills)** - plan UI on a live HTML canvas instead of reading a wall of text.
 

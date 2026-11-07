@@ -23,7 +23,7 @@ OUT = ROOT / "assets"
 LABEL = "BREWEDOPS  /  PHILIPPINES  /  UTC+8"
 HEAD_1 = "Automations and apps,"
 HEAD_2_ACCENT, HEAD_2_REST = "brewed", " to perfection."
-SUB = "Kenneth Villar  ·  Certified GHL Admin  ·  builds with AI"
+SUB = "Kenneth Villar  ·  Aspiring AI Engineer  ·  AI Native Builder"
 LOG = [  # (tag, name, status) - status None = blinking cursor line
     ("ghl", "client automations", "live"),
     ("app", "kapevault", "shipped"),
@@ -146,7 +146,7 @@ def build(theme: str) -> str:
 {''.join(keyframes)}
 @media (prefers-reduced-motion:reduce){{*{{animation:none!important}}}}"""
 
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" role="img" aria-label="BrewedOps - Automations and apps, brewed to perfection. Kenneth Villar, Certified GHL Admin.">
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" role="img" aria-label="BrewedOps - Automations and apps, brewed to perfection. Kenneth Villar, Aspiring AI Engineer and AI Native Builder.">
 <title>BrewedOps - Kenneth Villar</title>
 <defs>
 <style>{css}</style>
